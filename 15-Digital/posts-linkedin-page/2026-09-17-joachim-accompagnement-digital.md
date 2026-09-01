@@ -1,12 +1,13 @@
 ---
 format: mixte
-date_publication: 2026-09-17
+date_publication:
 statut: brouillon
 sujet: Joachim M. : l'accompagnement digital d'un premier client
 canal: linkedin_page
 linkedin_page_id:
 linkedin_page_url:
 ---
+<!-- Brouillon : date prévue 17/09 (ligne AppFlowy 5c30022b). Date et lien Fichier posés après validation El Jeffe. -->
 
 **TEXTE (proposition)**
 
