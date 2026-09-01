@@ -36,3 +36,10 @@ canal: linkedin
 - Votre entreprise est-elle prête à vendre à une machine ?
 
 #CommerceAgentique #IA #Ecommerce #Digital-VPartners
+
+## Visuel
+agentique/slide1.png
+agentique/slide2.png
+agentique/slide3.png
+agentique/slide4.png
+agentique/slide5.png
