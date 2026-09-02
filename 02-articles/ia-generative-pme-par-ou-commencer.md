@@ -1,12 +1,12 @@
 ---
 date: 2026-09-02
-statut: a_valider
+statut: valide
 ---
 
 # L'IA générative pour les PME : par où commencer concrètement
 
 > Blog Digital-V · Article hebdo · Sujet proposé à El Jeffe le 02/09, texte À VALIDER
-> Statut : À VALIDER pour publication
+> Statut : VALIDÉ par El Jeffe le 02/09, publication prévue mercredi 09/09
 > Sources : cadrage interne Digital-V (positionnement « Employé numérique », L'Escouade IA), bonnes pratiques de déploiement IA en PME
 
 ---
@@ -107,4 +107,4 @@ En heures récupérées par semaine, puis en erreurs évitées et en réactivit�
 - Zéro tiret cadratin/demi-cadratin ✓
 - CTA unique vers digital-vpartners.com ✓
 - Aucune statistique chiffrée non sourcée (les ordres de grandeur en heures sont qualitatifs) ✓
-- Statut : À VALIDER par El Jeffe avant publication
+- Statut : VALIDÉ par El Jeffe le 02/09 (mercredi 09/09)
