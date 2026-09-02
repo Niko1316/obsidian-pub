@@ -2,7 +2,7 @@
 linkedin_id:
 format: visuel
 date_publication: 2026-09-10
-statut: brouillon
+statut: valide
 sujet: AI Overviews France
 canal: linkedin
 ---
@@ -31,5 +31,5 @@ Avez-vous déjà vu un Aperçu IA sur une recherche vous concernant ? 😉
 
 #SEO #IA #Google #Digital-VPartners
 
-[VISUEL]
-Visuel 4:5 représentant une page de résultats Google stylisée: un encart « Aperçu IA » surligné trône au-dessus des liens bleus, avec les chiffres clés 40 à 60 % de trafic et 23 % de conversion mis en avant. Ambiance épurée, logo Google et signature Digital-V Partners en bas.
+## Visuel
+2026-09-10-ai-overviews-france.png

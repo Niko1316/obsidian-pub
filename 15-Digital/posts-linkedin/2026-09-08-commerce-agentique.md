@@ -2,7 +2,7 @@
 linkedin_id:
 format: carrousel
 date_publication: 2026-09-08
-statut: brouillon
+statut: valide
 sujet: Commerce agentique
 canal: linkedin
 ---
