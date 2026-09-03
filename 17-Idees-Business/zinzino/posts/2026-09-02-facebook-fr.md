@@ -2,7 +2,9 @@
 date_publication: 2026-09-02
 reseau: facebook
 langue: fr
-statut: brouillon
+statut: publie
+facebook_post_id: pfbid0ny6vkjqaPwTsCrCHjpYLzCRc3yVGQfRgf9JTJy557AA4vvjZwY6Uv8AQQ8z7Kdpvl
+facebook_post_url: https://www.facebook.com/permalink.php?story_fbid=pfbid0ny6vkjqaPwTsCrCHjpYLzCRc3yVGQfRgf9JTJy557AA4vvjZwY6Uv8AQQ8z7Kdpvl&id=61593820026614
 ---
 
 Le poisson de ton assiette contient moins d'oméga-3 qu'avant. Une nouvelle étude vient de le confirmer.

@@ -2,7 +2,9 @@
 date_publication: 2026-09-01
 reseau: facebook
 langue: en
-statut: valide
+statut: publie
+facebook_post_id: pfbid0RQRn1KLM2pD1HYz2d5tSkv7fDCgqzHybSpM3shAuDbTyD3xChXFNyBhtChACZyYQl
+facebook_post_url: https://www.facebook.com/permalink.php?story_fbid=pfbid0RQRn1KLM2pD1HYz2d5tSkv7fDCgqzHybSpM3shAuDbTyD3xChXFNyBhtChACZyYQl&id=61593820026614
 ---
 
 Worried that omega-3 could affect your heart rhythm? A new study says dose matters.
