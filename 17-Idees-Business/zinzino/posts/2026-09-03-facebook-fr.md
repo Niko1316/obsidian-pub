@@ -2,9 +2,11 @@
 date_publication: 2026-09-03
 reseau: facebook
 langue: fr
-statut: valide
+statut: publie
 sujet: Étude USC 2026, huile de poisson et cerveau
 persona: Nora Sundell
+facebook_post_id: pfbid026ntMpRoJBYRjA1Bzi46xmkQvkyP3HJvFfCS7crnkebft1HzjaTwLr4WTNCh8ztZ5l
+facebook_post_url: https://www.facebook.com/permalink.php?story_fbid=pfbid026ntMpRoJBYRjA1Bzi46xmkQvkyP3HJvFfCS7crnkebft1HzjaTwLr4WTNCh8ztZ5l&id=61593820026614
 ---
 
 J'ai lu l'étude publiée en juin 2026 dans eBioMedicine et je voulais vous en parler honnêtement.
