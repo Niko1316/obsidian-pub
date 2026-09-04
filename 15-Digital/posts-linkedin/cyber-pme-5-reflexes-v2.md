@@ -1,7 +1,7 @@
 ---
 date_publication: 2026-09-23
 format: visuel
-statut: a-valider
+statut: valide
 sujet: Cyber PME : les 5 réflexes (synchronisé offre audit d'exposition)
 canal: linkedin
 ---
