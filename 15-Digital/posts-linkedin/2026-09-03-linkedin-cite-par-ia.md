@@ -1,8 +1,8 @@
 ---
-linkedin_id:
+linkedin_id: 7501997545888530432
 format: texte
 date_publication: 2026-09-03
-statut: brouillon
+statut: publie
 sujet: LinkedIn cité par les IA
 canal: linkedin
 ---
