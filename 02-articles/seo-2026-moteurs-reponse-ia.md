@@ -1,12 +1,14 @@
 ---
 date: 2026-08-28
-statut: a-valider
+statut: publie
+date_publication: 2026-08-28
+url: https://digital-vpartners.com/fr/blog/seo-2026-moteurs-de-reponse-ia
 ---
 
-# SEO 2026 : ce qui a changé avec les moteurs de réponse IA — À VALIDER
+# SEO 2026 : ce qui a changé avec les moteurs de réponse IA
 
 > Blog Digital-V · Article hebdo · Sujet validé par El Jeffe (27/08)
-> Statut : À VALIDER avant publication
+> Statut : PUBLIÉ le 28/08/2026 (digital-vpartners.com/fr/blog/seo-2026-moteurs-de-reponse-ia) — le flux RSS du site indique 27/08, à confirmer
 > Sources : Search Engine Land (27/05/2026), Seer Interactive, Ahrefs, Moburst, Conductor, Adobe Analytics, Semrush, Fractl
 
 ---

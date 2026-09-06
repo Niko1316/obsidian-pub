@@ -1,12 +1,14 @@
 ---
 date: 2026-09-02
-statut: valide
+statut: publie
+date_publication: 2026-09-02
+url: https://digital-vpartners.com/fr/blog/cybersecurite-5-reflexes-apres-piratage-dgfip
 ---
 
 # Cybersécurité : les 5 réflexes de base après le piratage de la DGFiP
 
 > Blog Digital-V · Article hebdo · Sujet validé par El Jeffe (30/08), texte validé le 01/09
-> Statut : VALIDÉ pour publication
+> Statut : PUBLIÉ le 02/09/2026 (digital-vpartners.com/fr/blog/cybersecurite-5-reflexes-apres-piratage-dgfip)
 > Sources : Le Monde (14/08/2026), DGFiP / ministère de l'Économie (13-14/08/2026), CNIL, ANSSI, Lacour Avocat, Leto Legal, FrenchBreaches
 
 ---
