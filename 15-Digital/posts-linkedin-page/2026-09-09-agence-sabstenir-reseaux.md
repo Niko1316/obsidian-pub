@@ -1,7 +1,7 @@
 ---
 format: texte
 date_publication: 2026-09-09
-statut: valide
+statut: buffer_planifie
 sujet: Agence S'abstenir : la restructuration des réseaux
 canal: linkedin_page
 linkedin_page_id:
