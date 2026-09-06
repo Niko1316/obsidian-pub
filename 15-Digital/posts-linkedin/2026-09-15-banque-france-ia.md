@@ -2,7 +2,7 @@
 linkedin_id:
 format: visuel
 date_publication: 2026-09-15
-statut: a-valider
+statut: valide
 sujet: IA en entreprise : l'enquête de la Banque de France
 canal: linkedin
 ---

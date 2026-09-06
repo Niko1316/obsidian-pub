@@ -1,7 +1,7 @@
 ---
 format: visuel
 date_publication: 2026-09-10
-statut: brouillon
+statut: valide
 sujet: REDES Ouest France : les réseaux qui recrutent
 canal: linkedin_page
 linkedin_page_id:
