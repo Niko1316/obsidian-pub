@@ -1,10 +1,12 @@
 ---
-linkedin_id:
+linkedin_id: urn:li:ugcPost:7503526-publie-via-rest-posts
 format: carrousel
-date_publication: 2026-09-08
-statut: valide
+date_publication: 2026-09-11
+statut: publie
 sujet: Commerce agentique
 canal: linkedin
+publie_le: 2026-09-09
+note: ID exact non capturé (crash parsing body vide) - vérifier activité LinkedIn
 ---
 
 31% des cyberacheteurs utilisent déjà l'IA pour acheter en ligne. Bientôt, un employé numérique comparera, négociera et achètera à votre place. Ce que ça change pour les marques et les PME.

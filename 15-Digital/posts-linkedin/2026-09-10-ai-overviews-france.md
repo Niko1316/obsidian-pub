@@ -1,8 +1,8 @@
 ---
-linkedin_id:
+linkedin_id: urn:li:share:7503521461958029312
 format: visuel
 date_publication: 2026-09-10
-statut: valide
+statut: publie
 sujet: AI Overviews France
 canal: linkedin
 ---
