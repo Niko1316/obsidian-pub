@@ -1,6 +1,7 @@
 ---
-date: 2026-09-02
-statut: valide
+date: 2026-09-09
+url: https://digital-vpartners.com/fr/blog/ia-generative-en-pme-commencez-par-une-tache
+statut: publie
 ---
 
 # L'IA générative pour les PME : par où commencer concrètement
