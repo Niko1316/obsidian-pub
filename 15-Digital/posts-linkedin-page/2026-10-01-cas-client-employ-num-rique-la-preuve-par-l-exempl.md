@@ -2,7 +2,7 @@
 date_publication: 2026-10-01
 heure_publication: 10:00 (Paris)
 format: texte
-statut: a-valider
+statut: buffer_planifie
 sujet: Cas client employé numérique : la preuve par l'exemple
 pilier: employe-numerique
 canal: linkedin_page

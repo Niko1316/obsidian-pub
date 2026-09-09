@@ -2,7 +2,7 @@
 date_publication: 2026-09-15
 heure_publication: 10:00 (Paris)
 format: texte
-statut: a-valider
+statut: buffer_planifie
 sujet: Êtes-vous cité par l'IA ?
 pilier: visibilite-ia
 canal: linkedin_page

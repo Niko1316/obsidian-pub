@@ -2,7 +2,7 @@
 date_publication: 2026-09-29
 heure_publication: 10:00 (Paris)
 format: texte
-statut: a-valider
+statut: buffer_planifie
 sujet: Bien classé ≠ cité : GEO vs SEO expliqué simplement
 pilier: visibilite-ia
 canal: linkedin_page

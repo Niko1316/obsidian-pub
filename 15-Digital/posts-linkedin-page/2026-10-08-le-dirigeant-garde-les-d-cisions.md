@@ -2,7 +2,7 @@
 date_publication: 2026-10-08
 heure_publication: 10:00 (Paris)
 format: texte
-statut: a-valider
+statut: valide
 sujet: Le dirigeant garde les décisions
 pilier: employe-numerique
 canal: linkedin_page

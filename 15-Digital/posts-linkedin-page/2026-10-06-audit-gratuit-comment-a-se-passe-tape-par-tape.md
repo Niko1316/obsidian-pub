@@ -2,7 +2,7 @@
 date_publication: 2026-10-06
 heure_publication: 10:00 (Paris)
 format: texte
-statut: a-valider
+statut: valide
 sujet: Audit gratuit : comment ça se passe, étape par étape
 pilier: visibilite-ia
 canal: linkedin_page

@@ -2,7 +2,7 @@
 date_publication: 2026-09-23
 heure_publication: 10:00 (Paris)
 format: texte
-statut: a-valider
+statut: buffer_planifie
 sujet: L'erreur cyber que 9 PME sur 10 font
 pilier: cyber
 canal: linkedin_page

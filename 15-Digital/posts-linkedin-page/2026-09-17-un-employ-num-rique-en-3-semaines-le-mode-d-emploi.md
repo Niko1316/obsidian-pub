@@ -2,7 +2,7 @@
 date_publication: 2026-09-17
 heure_publication: 10:00 (Paris)
 format: texte
-statut: a-valider
+statut: buffer_planifie
 sujet: Un employé numérique en 3 semaines : le mode d'emploi
 pilier: employe-numerique
 canal: linkedin_page

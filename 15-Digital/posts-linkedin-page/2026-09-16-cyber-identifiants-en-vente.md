@@ -2,7 +2,7 @@
 date_publication: 2026-09-16
 heure_publication: 10:00 (Paris)
 format: texte
-statut: a-valider
+statut: buffer_planifie
 sujet: Vos identifiants d'employés sont peut-être en vente
 pilier: cyber
 canal: linkedin_page

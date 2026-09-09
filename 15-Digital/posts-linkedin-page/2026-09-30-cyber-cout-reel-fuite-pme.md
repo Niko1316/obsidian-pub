@@ -2,7 +2,7 @@
 date_publication: 2026-09-30
 heure_publication: 10:00 (Paris)
 format: texte
-statut: a-valider
+statut: buffer_planifie
 sujet: Le coût réel d'une fuite pour une PME
 pilier: cyber
 canal: linkedin_page

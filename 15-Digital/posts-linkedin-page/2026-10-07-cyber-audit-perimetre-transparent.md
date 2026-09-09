@@ -2,7 +2,7 @@
 date_publication: 2026-10-07
 heure_publication: 10:00 (Paris)
 format: texte
-statut: a-valider
+statut: valide
 sujet: Audit cyber : ce qu'on trouve, ce qu'on ne touche pas
 pilier: cyber
 canal: linkedin_page
