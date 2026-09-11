@@ -2,9 +2,9 @@
 date_publication: 2026-09-10
 reseau: facebook
 langue: fr
-statut: a-valider-visuel
+statut: valide
+valide_le: 2026-09-11
 ---
-
 🔍 **Bitcoin ETFs : un nouveau record en septembre 2026**
 Les fonds négociés en bourse (ETF) liés au Bitcoin ont attiré **$731 millions** en une seule journée, leur plus forte affluence depuis janvier. Cette tendance confirme l’adoption massive par les institutions financières.
 

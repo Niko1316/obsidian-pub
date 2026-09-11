@@ -2,11 +2,11 @@
 date_publication: 2026-09-06
 reseau: facebook
 langue: fr
-statut: a-valider-visuel
+statut: valide
 sujet: Australie, les grandes enseignes retirent l'huile de krill
 persona: Nora Sundell
+valide_le: 2026-09-11
 ---
-
 Les deux plus grandes chaînes de supermarchés australiennes ne vendent plus de compléments à l'huile de krill. Coles (plus de 840 magasins) l'a confirmé par écrit pour tous ses produits dérivés du krill, et Woolworths pour les gélules d'huile de krill. C'est l'organisation Sea Shepherd, qui documente la pêche au krill antarctique, qui a obtenu ces confirmations écrites début septembre. Un tournant pour tout le secteur des oméga-3.
 
 Pourquoi c'est important, même loin de l'Australie :

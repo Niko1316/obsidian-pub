@@ -2,9 +2,9 @@
 date_publication: 2026-09-11
 reseau: facebook
 langue: fr
-statut: a-valider-visuel
+statut: valide
+valide_le: 2026-09-11
 ---
-
 Une étude récente publiée dans *Clinical Nutrition* révèle que les compléments d’oméga-3, en particulier ceux riches en DHA et EPA, pourraient réduire significativement le risque de maladies cardiovasculaires chez les personnes âgées de plus de 65 ans. Les chercheurs ont observé une baisse de **28 % des risques d’infarctus** chez les participants consommant régulièrement des doses optimales d’oméga-3.
 
 Pourquoi cette découverte est-elle importante ?

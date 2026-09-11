@@ -2,11 +2,11 @@
 date_publication: 2026-09-06
 reseau: facebook
 langue: fr
-statut: a-valider-visuel
+statut: valide
 sujet: 731 M$ en un jour dans les ETF Bitcoin, Wall Street valide
 persona: Alexandre Block
+valide_le: 2026-09-11
 ---
-
 Jeudi 3 septembre, les ETF Bitcoin américains ont enregistré 731 millions de dollars d'entrées nettes en une seule journée, leur meilleure performance depuis janvier. Le fonds de BlackRock (IBIT) a capté à lui seul 454 millions. Sur l'ensemble du mois d'août, ces fonds ont attiré environ 3,5 milliards de dollars, leur meilleur mois de l'année.
 
 Trois enseignements, sans prédire le prix :

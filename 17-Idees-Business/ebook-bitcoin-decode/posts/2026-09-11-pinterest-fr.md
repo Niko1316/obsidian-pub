@@ -2,9 +2,9 @@
 date_publication: 2026-09-11
 reseau: pinterest
 langue: fr
-statut: a-valider-visuel
+statut: valide
+valide_le: 2026-09-11
 ---
-
 Le 11 septembre 2026, Bitcoin (BTC) a chuté sous les **$73 000**, une baisse de 4,27 % en 24 heures, selon CoinDesk. Cette chute s’inscrit dans un contexte de tensions géopolitiques accrues entre les États-Unis et l’Iran, qui ont provoqué une vente massive sur les marchés financiers, y compris dans le secteur des cryptomonnaies.
 
 Pourquoi cette actualité est-elle importante ?
