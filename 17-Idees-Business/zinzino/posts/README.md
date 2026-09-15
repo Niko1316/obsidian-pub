@@ -28,6 +28,9 @@ Un fichier par post publié, au format `AAAA-MM-JJ-canal-langue.md` (facebook, i
 - [[17-Idees-Business/zinzino/posts/2026-09-14-facebook-fr]]
 - [[17-Idees-Business/zinzino/posts/2026-09-14-pinterest-fr]]
 - [[17-Idees-Business/zinzino/posts/2026-09-14-reddit-en]]
+- [[17-Idees-Business/zinzino/posts/2026-09-15-facebook-fr]]
+- [[17-Idees-Business/zinzino/posts/2026-09-15-pinterest-fr]]
+- [[17-Idees-Business/zinzino/posts/2026-09-15-reddit-en]]
 
 ## Liens
 - Dossier parent : [[17-Idees-Business/zinzino/README]]
