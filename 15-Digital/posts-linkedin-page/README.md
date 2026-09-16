@@ -12,6 +12,7 @@ Un fichier par post de la page Digital-V Partners, au format `AAAA-MM-JJ-sujet.m
 - [[15-Digital/posts-linkedin-page/2026-09-15-rovumi-campagnes-acquisition]]
 - [[15-Digital/posts-linkedin-page/2026-09-15-tes-vous-cit-par-l-ia]]
 - [[15-Digital/posts-linkedin-page/2026-09-16-cyber-identifiants-en-vente]]
+- [[15-Digital/posts-linkedin-page/2026-09-17-62-pour-cent-utilisent-lia-14-en-tirent-un-resultat]]
 - [[15-Digital/posts-linkedin-page/2026-09-17-un-employ-num-rique-en-3-semaines-le-mode-d-emploi]]
 - [[15-Digital/posts-linkedin-page/2026-09-22-r-sultat-r-el-avant-apr-s-pr-sence-ia-augment-e]]
 - [[15-Digital/posts-linkedin-page/2026-09-23-cyber-erreur-9-pme-sur-10]]
