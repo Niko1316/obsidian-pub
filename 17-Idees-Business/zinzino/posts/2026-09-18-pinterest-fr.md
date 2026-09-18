@@ -4,16 +4,15 @@ reseau: pinterest
 langue: fr
 statut: a-valider-visuel
 sujet: Index oméga-3 sous-optimal, quatre mois de DHA chez les sportives
+persona: Nora Sundell
 ---
 
-Ton index oméga-3 en dit plus que tes habitudes déclarées. Et on part souvent trop bas.
+Votre index oméga-3 en dit plus long que vos habitudes, et il part souvent bas.
 
-Une étude du 14 septembre 2026 (Frontiers in Nutrition) a suivi des joueuses de football semi-professionnelles pendant quatre mois avec de la DHA et de la protéine de lactosérum. Leur index oméga-3 est passé de 5,08 %, un niveau sous-optimal, à 6,8 % en moyenne, avec une amélioration des marqueurs du transport de l'oxygène.
+38 joueuses semi-professionnelles suivies quatre mois : 20 ont pris 1 000 mg de DHA par jour avec de la protéine, 18 formaient le groupe de référence. Index oméga-3 : 5,08 % au départ, 6,8 % après (p < 0,001).
 
-Côté mental, un essai du Journal of Affective Disorders montre que 750 mg d'EPA et DHA par jour pendant trois mois améliorent stress et sommeil chez 64 adultes en détresse psychologique.
+Aucune différence nette sur le sprint ou le saut : le bénéfice porte sur le statut sanguin, pas sur la performance.
 
-La boucle gagnante : doser, ajuster, redoser. On ne corrige pas ce qu'on ne mesure pas.
+Enregistrez cette épingle pour votre prochain bilan.
 
-Enregistre cette épingle pour ton prochain bilan sanguin.
-
-#Omega3 #IndexOmega3 #SportFeminin #Sommeil #BienEtre
+#Omega3 #IndexOmega3 #SportFeminin
