@@ -16,4 +16,4 @@ C'est exactement pour lire ces signaux que les bases comptent : taux, flux, rég
 
 #Bitcoin #ClarityAct #Crypto #Regulation #BitcoinDecode
 
-Sources : Sénat américain, roll call n° 234 du 15 septembre 2026 (motion de clôture rejetée, 49 voix pour, 50 contre, Chris Coons ne prenant pas part au vote) ; CNBC, 15 septembre 2026 (bitcoin en baisse de 3 %) ; Coinpedia et CoinGlass (771 M$ de liquidations, dont 568 M$ de positions longues) ; crypto.news et CoinDesk, 16 septembre 2026 (bitcoin autour de 75 800 $) ; Crypto Times et Gate, 17 et 18 septembre 2026 (rebond vers 78 000 $ ; hausse de taux de la Fed de 0,25 point le 16).
+Sources : Sénat américain, roll call n° 234 du 15 septembre 2026 (motion de clôture rejetée, 49 voix pour, 50 contre, 1 abstention) ; CNBC, 15 septembre 2026 (bitcoin en baisse de 3 %) ; Coinpedia et CoinGlass (771 M$ de liquidations, dont 568 M$ de positions longues) ; crypto.news et CoinDesk, 16 septembre 2026 (bitcoin autour de 75 800 $) ; Crypto Times et Gate, 17 et 18 septembre 2026 (rebond vers 78 000 $ ; hausse de taux de la Fed de 0,25 point le 16).
