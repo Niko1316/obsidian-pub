@@ -6,7 +6,7 @@ statut: a-valider-visuel
 sujet: CLARITY Act bloqué, le bitcoin décroche de 3 % avant de rebondir
 ---
 
-Le 15 septembre, le Sénat américain a bloqué le CLARITY Act, la loi de structure des actifs numériques : 50 voix pour, 49 contre, il en fallait 60.
+Le 15 septembre, le Sénat américain a bloqué le CLARITY Act, la loi de structure des actifs numériques : 49 voix pour, 50 contre, onze voix sous le seuil des 60 requises.
 
 Réaction mécanique : bitcoin en baisse de 3 % vers 75 800 $, point bas près de 74 900 $, et 771 M$ de liquidations en 24 heures, dont 568 M$ de positions acheteuses.
 
