@@ -16,7 +16,7 @@ Le nouveau jeu s'appelle GEO, Generative Engine Optimization : faire en sorte qu
 
 Pour un dirigeant, trois réflexes :
 1. Gardez le SEO : c'est la matière que l'IA lit pour construire ses réponses. Mais il ne garantit plus la citation.
-2. Soignez ce que l'IA comprend : réponses directes aux questions clés, chiffres sourcés, cohérence des mentions sur le web. Sur LinkedIn, 75 % des citations pointent vers des profils : la parole de vos équipes compte autant que votre site.
+2. Soignez ce que l'IA comprend : réponses directes aux questions clés, chiffres sourcés, cohérence des mentions sur le web. Sur LinkedIn, 75 % des citations IA pointent vers des profils individuels (Meltwater et LinkedIn, 9,5 millions de citations analysées) : la parole de vos équipes compte autant que votre site.
 3. Testez vous-même : interrogez ChatGPT ou Google AI sur vos mots-clés. Si vous n'y êtes jamais cité, votre position Google n'y changera rien.
 
 La frontière entre SEO et GEO se mesure en un audit, gratuit : digital-vpartners.com 🎯

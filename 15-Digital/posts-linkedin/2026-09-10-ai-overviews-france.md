@@ -14,9 +14,9 @@ Le 22 juillet 2026, Google a lancé en France les Aperçus IA (AI Overviews) et 
 Ce retard n'était pas un hasard. L'Autorité de la concurrence avait sanctionné Google à hauteur de 250 millions d'euros en 2024 sur le dossier des droits voisins. Un accord avec environ 450 éditeurs de presse français a finalement débloqué le lancement, deux mois avant la date du 23 septembre annoncée aux éditeurs.
 
 Les chiffres des marchés où la fonction existe depuis deux ans parlent 📊:
-- 40 à 60 % de trafic en moins sur les pages concernées
+- 40 à 60 % de trafic en moins sur les pages éditoriales (étude sur les éditeurs britanniques, 2025)
 - un internaute deux fois moins enclin à cliquer quand un résumé IA s'affiche (Pew Research, 2025)
-- les clics restants convertissent 23 % mieux, car l'utilisateur a déjà été rassuré par le résumé
+- les clics qui restent sont mieux qualifiés : l'internaute a déjà lu le résumé avant de cliquer (données Ahrefs, 2025)
 
 La question n'est plus « suis-je bien classé ? » mais « suis-je cité dans le résumé IA ? ». Être la source de la réponse devient aussi important que d'être premier sur Google.
 

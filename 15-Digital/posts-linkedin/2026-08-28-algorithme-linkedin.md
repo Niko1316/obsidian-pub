@@ -8,7 +8,7 @@ sujet: Algorithme LinkedIn 2026
 
 **VALIDÉ El Jeffe 28/08**
 
-1,3 milliard de membres. C'est la taille du réseau LinkedIn en 2026. Et pourtant, l'algorithme n'est pas conçu pour la viralité.
+1,3 milliard de membres revendiqués par LinkedIn. C'est la taille du réseau en 2026. Et pourtant, l'algorithme n'est pas conçu pour la viralité.
 
 Le Journal du Net l'écrit noir sur blanc depuis janvier : LinkedIn ne récompense plus les créateurs actifs. Il récompense les réponses utiles.
 

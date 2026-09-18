@@ -2,7 +2,7 @@
 format: visuel
 date_publication: 2026-09-08
 statut: buffer_planifie
-sujet: Maesco — l'infolettre vidéo qui fidélise
+sujet: Maesco, l'infolettre vidéo qui fidélise
 canal: linkedin_page
 linkedin_page_id:
 linkedin_page_url:

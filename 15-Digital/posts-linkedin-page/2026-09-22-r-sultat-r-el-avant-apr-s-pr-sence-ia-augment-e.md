@@ -8,7 +8,7 @@ pilier: visibilite-ia
 canal: linkedin_page
 ---
 
-14,3 % des réponses de ChatGPT Search citent LinkedIn. Et votre entreprise, qui la cite ? 🤖
+Sur 325 000 requêtes testées par Semrush, 14,3 % des réponses de ChatGPT Search citent LinkedIn. Et votre entreprise, qui la cite ? 🤖
 
 Posons la vraie question : quand une IA recommande un prestataire dans votre secteur, votre nom apparaît-il dans sa réponse ? Pour l'un de nos clients, la réponse était non. Et c'était vérifiable, requête par requête, capture par capture.
 

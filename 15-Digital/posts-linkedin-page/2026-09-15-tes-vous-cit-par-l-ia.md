@@ -8,11 +8,11 @@ pilier: visibilite-ia
 canal: linkedin_page
 ---
 
-75 % des citations IA sur LinkedIn pointent vers des profils individuels, pas vers des entreprises. 🤖
+75 % des citations IA sur LinkedIn pointent vers des profils individuels, pas vers des entreprises (Meltwater et LinkedIn, 9,5 millions de citations analysées). 🤖
 
 Quand un client interroge ChatGPT, Gemini ou Google AI sur votre métier, l'IA ne renvoie pas une liste de liens : elle rédige une réponse et cite ses sources. Elle cite ce qu'elle connaît déjà : grands acteurs, marques notoires, profils qui publient. Une PME au site impeccable mais sans présence éditoriale n'apparaît souvent nulle part dans la réponse. Le client repart pourtant avec une réponse : celle qui cite un autre acteur.
 
-Le sujet n'est plus anecdotique. Depuis le 22 juillet 2026, les Aperçus IA de Google sont actifs en France. Sur les marchés où ils existent depuis deux ans, le trafic des pages concernées chute de 40 à 60 %. Être cité par l'IA devient aussi stratégique qu'être bien classé.
+Le sujet n'est plus anecdotique. Depuis le 22 juillet 2026, les Aperçus IA de Google sont actifs en France. Sur les marchés où ils existent depuis deux ans, le trafic des pages éditoriales chute de 40 à 60 % (étude menée sur les éditeurs britanniques, 2025). Être cité par l'IA devient aussi stratégique qu'être bien classé.
 
 Ce que constatent nos audits :
 1. Le taux de présence mesure la part des requêtes testées où votre nom apparaît dans une réponse IA. Il est souvent très bas, y compris pour des PME bien positionnées sur Google.
