@@ -1,16 +1,13 @@
 # Posts ebook Bitcoin Décodé
 
-Un fichier par post publié, au format `AAAA-MM-JJ-canal-langue.md` (facebook, instagram, pinterest, reddit, x). Série complète listée dans [[INDEX]].
+Un fichier par post publié, au format `AAAA-MM-JJ-canal-langue.md` (facebook, instagram, pinterest, x). Le canal reddit a été retiré le 18/09/2026.. Série complète listée dans [[INDEX]].
 
 ## Contenu
-- [[17-Idees-Business/ebook-bitcoin-decode/posts/2026-08-31-reddit-en]]
 - [[17-Idees-Business/ebook-bitcoin-decode/posts/2026-08-31-x-en]]
 - [[17-Idees-Business/ebook-bitcoin-decode/posts/2026-08-31-x-fr]]
-- [[17-Idees-Business/ebook-bitcoin-decode/posts/2026-09-01-reddit-fr]]
 - [[17-Idees-Business/ebook-bitcoin-decode/posts/2026-09-01-x-en]]
 - [[17-Idees-Business/ebook-bitcoin-decode/posts/2026-09-03-facebook-fr]]
 - [[17-Idees-Business/ebook-bitcoin-decode/posts/2026-09-03-pinterest-fr]]
-- [[17-Idees-Business/ebook-bitcoin-decode/posts/2026-09-03-reddit-en]]
 - [[17-Idees-Business/ebook-bitcoin-decode/posts/2026-09-03-x-en]]
 - [[17-Idees-Business/ebook-bitcoin-decode/posts/2026-09-05-facebook-fr]]
 - [[17-Idees-Business/ebook-bitcoin-decode/posts/2026-09-05-pinterest-fr]]
@@ -18,37 +15,25 @@ Un fichier par post publié, au format `AAAA-MM-JJ-canal-langue.md` (facebook, i
 - [[17-Idees-Business/ebook-bitcoin-decode/posts/2026-09-06-facebook-fr]]
 - [[17-Idees-Business/ebook-bitcoin-decode/posts/2026-09-06-pinterest-fr]]
 - [[17-Idees-Business/ebook-bitcoin-decode/posts/2026-09-06-x-en]]
-- [[17-Idees-Business/ebook-bitcoin-decode/posts/2026-09-08-reddit-fr]]
-- [[17-Idees-Business/ebook-bitcoin-decode/posts/2026-09-09-reddit-en]]
 - [[17-Idees-Business/ebook-bitcoin-decode/posts/2026-09-10-facebook-fr]]
 - [[17-Idees-Business/ebook-bitcoin-decode/posts/2026-09-10-pinterest-fr]]
-- [[17-Idees-Business/ebook-bitcoin-decode/posts/2026-09-10-reddit-es]]
-- [[17-Idees-Business/ebook-bitcoin-decode/posts/2026-09-10-reddit-fr]]
 - [[17-Idees-Business/ebook-bitcoin-decode/posts/2026-09-10-x-fr]]
 - [[17-Idees-Business/ebook-bitcoin-decode/posts/2026-09-11-facebook-fr]]
 - [[17-Idees-Business/ebook-bitcoin-decode/posts/2026-09-11-pinterest-fr]]
-- [[17-Idees-Business/ebook-bitcoin-decode/posts/2026-09-11-reddit-pt]]
 - [[17-Idees-Business/ebook-bitcoin-decode/posts/2026-09-11-x-fr]]
 - [[17-Idees-Business/ebook-bitcoin-decode/posts/2026-09-12-facebook-fr]]
 - [[17-Idees-Business/ebook-bitcoin-decode/posts/2026-09-12-pinterest-fr]]
-- [[17-Idees-Business/ebook-bitcoin-decode/posts/2026-09-12-reddit-fr]]
 - [[17-Idees-Business/ebook-bitcoin-decode/posts/2026-09-12-x-fr]]
 - [[17-Idees-Business/ebook-bitcoin-decode/posts/2026-09-13-facebook-fr]]
 - [[17-Idees-Business/ebook-bitcoin-decode/posts/2026-09-13-pinterest-fr]]
-- [[17-Idees-Business/ebook-bitcoin-decode/posts/2026-09-13-reddit-en]]
 - [[17-Idees-Business/ebook-bitcoin-decode/posts/2026-09-13-x-fr]]
 - [[17-Idees-Business/ebook-bitcoin-decode/posts/2026-09-14-facebook-fr]]
 - [[17-Idees-Business/ebook-bitcoin-decode/posts/2026-09-14-pinterest-fr]]
-- [[17-Idees-Business/ebook-bitcoin-decode/posts/2026-09-14-reddit-es]]
 - [[17-Idees-Business/ebook-bitcoin-decode/posts/2026-09-14-x-fr]]
 - [[17-Idees-Business/ebook-bitcoin-decode/posts/2026-09-15-facebook-fr]]
 - [[17-Idees-Business/ebook-bitcoin-decode/posts/2026-09-15-pinterest-fr]]
-- [[17-Idees-Business/ebook-bitcoin-decode/posts/2026-09-15-reddit-pt]]
-- [[17-Idees-Business/ebook-bitcoin-decode/posts/2026-09-16-reddit-fr]]
-- [[17-Idees-Business/ebook-bitcoin-decode/posts/2026-09-17-reddit-en]] (refusé, subreddit interdit aux contributions)
 - [[17-Idees-Business/ebook-bitcoin-decode/posts/2026-09-18-facebook-fr]]
 - [[17-Idees-Business/ebook-bitcoin-decode/posts/2026-09-18-pinterest-fr]]
-- [[17-Idees-Business/ebook-bitcoin-decode/posts/2026-09-18-reddit-es]]
 - [[17-Idees-Business/ebook-bitcoin-decode/posts/2026-09-18-x-fr]]
 
 ## Liens
