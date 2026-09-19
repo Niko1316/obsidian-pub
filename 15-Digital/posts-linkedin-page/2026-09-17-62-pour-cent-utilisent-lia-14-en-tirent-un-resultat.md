@@ -6,12 +6,12 @@ statut: a_valider
 sujet: 62 % utilisent l'IA, 14 % en tirent un résultat mesurable
 pilier: visibilite-ia
 canal: linkedin_page
-source: Baromètre 9Squad 2026 de l'adoption de l'IA dans les PME B2B françaises, 280 répondants, janvier à avril 2026, croisé avec 120 missions (9squad.fr/blog/barometre-adoption-ia-pme-francaises-2026)
+source: Baromètre 9Squad 2026 de l'adoption de l'IA dans les PME B2B françaises (9Squad by Level Ops, édition mai 2026), PME B2B de 10 à 500 salariés, questionnaire de janvier à avril 2026 croisé avec plus de 120 missions (9squad.fr/blog/barometre-adoption-ia-pme-francaises-2026). Nombre de répondants volontairement non cité : la page source donne 280 dans sa méthodologie et 412 dans la légende de son infographie.
 ---
 
 62 % des PME B2B françaises utilisent l'IA générative chaque semaine. 14 % seulement peuvent montrer ce que ça leur a rapporté. 📊
 
-L'écart n'est pas un problème d'outils, c'est un problème de mesure. Le Baromètre 9Squad 2026 (280 PME B2B de 10 à 500 salariés, croisé avec 120 missions) donne les chiffres bruts : 89 % ont au moins un collaborateur qui utilise ChatGPT, Claude ou Gemini, 38 % ont des licences professionnelles, 29 % une charte d'usage formalisée. L'adoption a pris une avance nette sur le cadre.
+L'écart n'est pas un problème d'outils, c'est un problème de mesure. Le Baromètre 9Squad 2026 (PME B2B françaises de 10 à 500 salariés, questionnaire de janvier à avril 2026 croisé avec plus de 120 missions) donne les chiffres bruts : 89 % ont au moins un collaborateur qui utilise ChatGPT, Claude ou Gemini, 38 % ont des licences professionnelles, 29 % une charte d'usage formalisée. L'adoption a pris une avance nette sur le cadre.
 
 Sur le terrain, trois constats :
 
