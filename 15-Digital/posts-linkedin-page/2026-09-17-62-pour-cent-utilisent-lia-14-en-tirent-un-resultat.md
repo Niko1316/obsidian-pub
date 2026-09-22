@@ -1,8 +1,8 @@
 ---
-date_publication: 2026-09-17
+date_publication: 2026-10-09
 heure_publication: 10:00 (Paris)
 format: texte
-statut: a_valider
+statut: valide
 sujet: 62 % utilisent l'IA, 14 % en tirent un résultat mesurable
 pilier: visibilite-ia
 canal: linkedin_page
