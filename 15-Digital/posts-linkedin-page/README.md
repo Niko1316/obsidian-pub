@@ -12,7 +12,7 @@ Un fichier par post de la page Digital-V Partners, au format `AAAA-MM-JJ-sujet.m
 - [[15-Digital/posts-linkedin-page/2026-09-15-rovumi-campagnes-acquisition]]
 - [[15-Digital/posts-linkedin-page/2026-09-15-tes-vous-cit-par-l-ia]]
 - [[15-Digital/posts-linkedin-page/2026-09-16-cyber-identifiants-en-vente]]
-- [[15-Digital/posts-linkedin-page/2026-09-17-62-pour-cent-utilisent-lia-14-en-tirent-un-resultat]]
+- [[15-Digital/posts-linkedin-page/2026-09-17-62-pour-cent-utilisent-lia-14-en-tirent-un-resultat]] : post du pilier visibilité IA (chiffres du baromètre 9Squad 2026), statut validé et publication replanifiée au 09/10/2026 à 10h00 (Paris), la file Buffer de la page étant gelée le 22/09/2026.
 - [[15-Digital/posts-linkedin-page/2026-09-17-un-employ-num-rique-en-3-semaines-le-mode-d-emploi]]
 - [[15-Digital/posts-linkedin-page/2026-09-22-chiffre-apercus-ia-revise]] : version révisée du post du 22/09 (le chiffre des Aperçus IA passe de 15 % à 5,45 %, arXiv v6 daté du 02/09/2026). Remplace la version du même créneau, conservée dans `_archive/`.
 - [[15-Digital/posts-linkedin-page/2026-09-23-cyber-erreur-9-pme-sur-10]]
