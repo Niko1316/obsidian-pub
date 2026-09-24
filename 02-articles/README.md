@@ -7,6 +7,7 @@ Articles de blog et contenus éditoriaux.
 - [[02-articles/ia-generative-pme-par-ou-commencer.md]]
 - [[02-articles/seo-2026-moteurs-reponse-ia.md]]
 - [[02-articles/zero-click-2026-le-clic-n-est-plus-la-mesure.md]]
+- [[02-articles/automatiser-prospection-sans-perdre-humain.md]] : article blog Digital-V proposé à El Jeffe le 16/09/2026, texte à valider (statut `brouillon`), mécanique de prospection automatique séparant les tâches déléguables de la relation, sans chiffre non sourcé.
 
 ## Role
 Brouillons et articles edites du blog Digital-V, avant ou apres publication.
