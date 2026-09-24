@@ -2,7 +2,7 @@
 date_publication: 2026-09-22
 heure_publication: 10:00 (Paris)
 format: texte
-statut: a_valider
+statut: valide
 sujet: Le chiffre des Aperçus IA a été révisé : 15 %, puis 5,45 %
 pilier: visibilite-ia
 canal: linkedin_page
