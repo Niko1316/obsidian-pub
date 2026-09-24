@@ -23,3 +23,6 @@ Gardez les décisions, la relation client, la créativité. Confiez le répétit
 Pour poser vos questions à un humain, le diagnostic prend 60 secondes: digital-vpartners.com. 🛡️
 
 #EmployéNumérique #PME #Digital-VPartners
+
+## Visuel
+2026-10-08-le-dirigeant-garde-les-d-cisions-visuel.png
