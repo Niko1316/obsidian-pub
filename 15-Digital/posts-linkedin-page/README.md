@@ -24,6 +24,7 @@ Un fichier par post de la page Digital-V Partners, au format `AAAA-MM-JJ-sujet.m
 - [[15-Digital/posts-linkedin-page/2026-10-06-audit-gratuit-comment-a-se-passe-tape-par-tape]]
 - [[15-Digital/posts-linkedin-page/2026-10-07-cyber-audit-perimetre-transparent]]
 - [[15-Digital/posts-linkedin-page/2026-10-08-le-dirigeant-garde-les-d-cisions]]
+- [[15-Digital/posts-linkedin-page/2026-10-13-citation-fantome-lia-vous-lit-sans-vous-nommer]] : post du pilier visibilité IA, texte rédigé, statut à valider. Chiffres de l'étude « ghost citations » de Semrush avec Kevin Indig (juin 2026) et corrélation Ahrefs sur 75 000 marques : 62 pour cent des citations générées par les IA ne nomment jamais l'entreprise citée.
 - [[15-Digital/posts-linkedin-page/cyber-pme-5-reflexes]]
 
 ## Liens
