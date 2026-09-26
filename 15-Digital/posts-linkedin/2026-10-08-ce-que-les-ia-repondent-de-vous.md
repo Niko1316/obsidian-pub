@@ -11,7 +11,7 @@ canal: linkedin
 
 45 % des consommateurs passent désormais par une IA pour trouver une entreprise locale. Un an plus tôt, ils étaient 6 %.
 
-Ce chiffre vient de la Local Consumer Review Survey 2026 de BrightLocal, publiée en février sur un panel de 1 002 consommateurs américains. Les assistants y prennent la troisième place des sources de recommandation, derrière Google et Facebook. Chez nous, la pente est la même avec un an de décalage : le Conseil canadien du commerce de détail mesurait 28 % de consommateurs canadiens ayant utilisé l'IA pour une décision d'achat, en février 2026, sur 8 768 répondants.
+Ce chiffre vient de la Local Consumer Review Survey 2026 de BrightLocal, publiée en février sur un panel de 1 002 consommateurs américains. Les assistants y prennent la troisième place des sources de recommandation, derrière Google et Facebook. Chez nous, la pente est la même, avec un décalage : selon le sondage Léger réalisé pour la Banque Nationale en juin 2026 (1 518 répondants), 39 % des Canadiens intègrent l'IA à leurs décisions d'achat, et 45 % au Québec, la région la plus avancée du pays.
 
 Ce qui change n'est pas la question posée, c'est la réponse reçue.
 
@@ -19,7 +19,7 @@ Sur Google, votre client voyait dix liens et choisissait. Quand il interroge Cha
 
 Ce qui décide du nom qui sort, dans les études publiées cette année comme dans nos audits :
 
-1. Les avis récents. 74 % des consommateurs ne regardent que les avis écrits depuis moins de trois mois (BrightLocal 2026), et les assistants lisent les mêmes avis que vos clients. Un profil nourri en 2024 ne dit rien de votre activité aujourd'hui.
+1. Les avis récents. 74 % des consommateurs accordent plus de poids aux avis des trois derniers mois qu'aux plus anciens (BrightLocal 2026), et les assistants lisent les mêmes avis que vos clients. Un profil nourri en 2024 ne dit rien de votre activité aujourd'hui.
 
 2. Les traces en dehors de votre site. Annuaire professionnel, presse locale, comparatif, avis client : une entreprise qu'aucune source extérieure ne nomme est rarement recommandée par son nom.
 
