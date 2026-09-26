@@ -8,19 +8,27 @@ pilier: cyber
 canal: linkedin
 ---
 
-Le jour où une PME reçoit son premier rapport de simulation de phishing, la réaction est presque toujours la même : « on veut la liste des noms ». La réponse est non, et ce n'est pas une question de politesse.
+62 % des violations de données confirmées en 2026 impliquent un facteur humain. C'est exactement pour ça qu'un rapport de simulation de phishing ne doit jamais contenir de noms.
 
-Dans presque tous les incidents, la porte d'entrée est un email. Le maillon faible n'est pas technique, il est humain, et ça s'entraîne. Une campagne de simulation consiste à envoyer à vos équipes un email piégé mais réaliste, puis à mesurer : qui ouvre, qui clique, qui signale. L'objectif est de savoir où vous en êtes avant qu'un vrai attaquant ne vous le montre.
+Le chiffre vient du DBIR 2026 de Verizon, publié en mai sur plus de 22 000 violations confirmées dans 145 pays. Le hameçonnage y reste le deuxième vecteur d'accès initial, à 16 %, et le taux de clic grimpe de 40 % quand l'attaque quitte la boîte mail pour le téléphone.
 
-Mais si le rapport désigne les « mauvais élèves », vous obtenez l'inverse de ce que vous cherchez. La personne pointée ne parlera plus jamais d'un email suspect, par peur. Or le réflexe le plus utile dans une PME n'est pas de reconnaître un piège : c'est de le signaler, parce que c'est ce qui fait bloquer l'expéditeur pour tout le monde.
+Le jour où une PME reçoit son premier rapport de campagne, la réaction est presque toujours la même : « on veut la liste des noms ». La réponse est non, et ce n'est pas une question de politesse.
 
-Ce qu'on met en place tient en trois règles :
+Une campagne de simulation, c'est un email piégé mais réaliste envoyé aux équipes, puis une mesure : qui ouvre, qui clique, qui signale. L'objectif n'est pas de démasquer quelqu'un. C'est de savoir où vous en êtes avant qu'un vrai attaquant ne vous le montre.
 
-1. Un périmètre annoncé. La direction autorise la campagne et les équipes savent qu'elles sont sensibilisées, sans connaître les scénarios.
-2. Des résultats agrégés. Le rapport donne des taux : ouverture, clic, signalement, et la progression d'une campagne à l'autre. Aucun nom, jamais.
-3. Un apprentissage après chaque clic. Celui qui clique reçoit une page de sensibilisation courte, pas un reproche. C'est le seul moment où la leçon rentre.
+Car si le rapport désigne les mauvais élèves, vous obtenez l'inverse de ce que vous cherchez. La personne pointée ne parlera plus jamais d'un email suspect, par peur. Or le réflexe le plus utile dans une PME n'est pas de reconnaître un piège, c'est de le signaler : c'est ce qui fait bloquer l'expéditeur pour toutes les boîtes de l'entreprise.
 
-Le premier rapport surprend toujours : plus de clics que prévu, et très peu de signalements. C'est un point de départ, pas un verdict. Un an plus tard, ce qui a changé n'est pas l'attention des salariés, c'est le nombre d'alertes qui remontent.
+Ce que mesurent les programmes qui fonctionnent, sur 648 organisations et 123 692 utilisateurs suivis pendant douze mois (Phishing Behaviour Report 2026, Pistachio, 354 962 simulations) : dès le premier exercice, le taux de signalement (7,7 %) dépasse le taux de clic (4,1 %), sans que personne n'ait jamais eu à désigner un fautif. Un an plus tard, les équipes signalent près de deux fois plus souvent qu'elles ne cliquent, le rapport signalement sur clic passant de 1,3 à 1,8.
+
+Ce qu'on met en place tient en trois règles.
+
+1. Un périmètre annoncé. La direction autorise la campagne par écrit, les équipes savent que des simulations peuvent avoir lieu, sans connaître les scénarios. Personne n'est piégé en traître.
+
+2. Des résultats agrégés. Ouverture, clic, signalement, progression d'une vague à l'autre : des taux, jamais des noms. Un suivi individuel, quand il existe, reste entre les mains de la direction et des RH, dans une seule optique : accompagner.
+
+3. Une page pédagogique après chaque clic, pas un reproche. Une simulation s'arrête à la page d'avertissement, aucun mot de passe n'est récolté. C'est le seul moment où la leçon rentre, et c'est ce qui transforme un clic en signalement la fois suivante.
+
+Le premier rapport surprend toujours : plus de clics que prévu, peu de signalements. C'est un point de départ, pas un verdict. En un an, ce qui change n'est pas l'attention des salariés, c'est le nombre d'alertes qui remontent.
 
 Sensibiliser, ce n'est pas fliquer.
 
