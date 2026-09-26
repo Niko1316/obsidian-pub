@@ -12,6 +12,9 @@ Un fichier par post, au format `AAAA-MM-JJ-sujet.md`. Série complète listée d
 - [[15-Digital/posts-linkedin/2026-09-15-banque-france-ia]]
 - [[15-Digital/posts-linkedin/2026-09-17-shadow-ia]]
 - [[15-Digital/posts-linkedin/2026-09-21-jev-decisions-ia]]
+- [[15-Digital/posts-linkedin/2026-10-01-loi-25-registre-des-traitements]]
+- [[15-Digital/posts-linkedin/2026-10-08-ce-que-les-ia-repondent-de-vous]]
+- [[15-Digital/posts-linkedin/2026-10-15-simulation-phishing-sans-humiliation]]
 - [[15-Digital/posts-linkedin/cyber-pme-5-reflexes-v2]]
 
 ## Liens
