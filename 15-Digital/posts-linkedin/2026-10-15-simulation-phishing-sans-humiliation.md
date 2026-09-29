@@ -2,7 +2,7 @@
 date_publication: 2026-10-15
 heure_publication: 16:00 (Paris)
 format: texte
-statut: a-valider
+statut: valide
 sujet: Simulation de phishing : pourquoi on ne pointe jamais un salarié
 pilier: cyber
 canal: linkedin

@@ -2,7 +2,7 @@
 date_publication: 2026-10-13
 heure_publication: 10:00 (Paris)
 format: texte
-statut: a-valider
+statut: valide
 sujet: Cité en source, jamais nommé : la citation fantôme
 pilier: visibilite-ia
 canal: linkedin_page

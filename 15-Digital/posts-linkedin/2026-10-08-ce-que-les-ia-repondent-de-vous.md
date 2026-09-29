@@ -2,7 +2,7 @@
 format: texte
 date_publication: 2026-10-08
 heure_publication: 16:00 (Paris)
-statut: a-valider
+statut: valide
 sujet: Ce qu'un client apprend sur vous en interrogeant ChatGPT
 pilier: visibilite-ia
 canal: linkedin
