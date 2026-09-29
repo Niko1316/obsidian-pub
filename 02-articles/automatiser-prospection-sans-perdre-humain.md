@@ -1,7 +1,7 @@
 ---
 date: 2026-09-16
 url: (à venir après publication)
-statut: brouillon
+statut: valide
 ---
 
 # Automatiser sa prospection sans perdre l'humain

@@ -2,7 +2,7 @@
 date_publication: 2026-10-01
 heure_publication: 16:00 (Paris)
 format: texte
-statut: a-valider
+statut: valide
 sujet: Loi 25 : le registre des traitements, la pièce que personne n'a écrit
 pilier: conformite
 canal: linkedin

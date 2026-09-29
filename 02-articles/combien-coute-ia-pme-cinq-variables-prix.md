@@ -1,7 +1,7 @@
 ---
 date: 2026-09-30
 url: (à venir après publication)
-statut: brouillon
+statut: valide
 ---
 
 # Combien coûte l'IA dans une PME ? Les cinq variables qui font le prix
