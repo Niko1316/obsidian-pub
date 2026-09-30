@@ -1,13 +1,13 @@
 ---
 date: 2026-09-30
-url: (à venir après publication)
-statut: valide
+url: https://digital-vpartners.com/fr/blog/combien-coute-ia-pme-cinq-variables-prix
+statut: publie
 ---
 
 # Combien coûte l'IA dans une PME ? Les cinq variables qui font le prix
 
-> Blog Digital-V · Article hebdo · Sujet proposé à El Jeffe le 26/09 pour le créneau du mercredi 30/09, texte À VALIDER
-> Statut : en attente de décision dans NocoDB Publications (colonne Statut : « À publier » = publier, « Refusé » = sujet écarté). Aucune publication avant.
+> Blog Digital-V · Article hebdo · Sujet proposé à El Jeffe le 26/09, texte validé (Validation OUI)
+> Statut : PUBLIÉ le 30/09/2026 en fr/en/es. NocoDB Publications Id 130, Statut « Publié ».
 > Sources : relevé de visibilité IA Digital-V (septembre 2026), page tarifs publique de Digital-V Partners (faits fournis le 10/09), cadrage interne Digital-V (positionnement « Employé numérique », L'Escouade IA)
 
 ---

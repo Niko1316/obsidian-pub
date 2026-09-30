@@ -8,7 +8,8 @@ Articles de blog et contenus éditoriaux.
 - [[02-articles/seo-2026-moteurs-reponse-ia.md]]
 - [[02-articles/zero-click-2026-le-clic-n-est-plus-la-mesure.md]]
 - [[02-articles/automatiser-prospection-sans-perdre-humain.md]] : article blog Digital-V proposé à El Jeffe le 16/09/2026, texte à valider (statut `brouillon`), mécanique de prospection automatique séparant les tâches déléguables de la relation, sans chiffre non sourcé.
-- [[02-articles/combien-coute-ia-pme-cinq-variables-prix.md]] : brouillon d'avance pour le créneau du mercredi 30/09/2026, texte à valider (statut `brouillon`), les cinq variables du prix d'un projet d'IA en PME et les montants publics fournis le 10/09, sans autre chiffre.
+- [[02-articles/combien-coute-ia-pme-cinq-variables-prix.md]] : brouillon d'avance pour le créneau du mercredi 30/09/2026, publié le 30/09/2026 en fr/en/es (statut `publie`), les cinq variables du prix d'un projet d'IA en PME et les montants publics fournis le 10/09, sans autre chiffre.
+- [[02-articles/etre-cite-par-chatgpt-la-methode-de-mesure.md]] : brouillon d'avance pour le créneau du mercredi 07/10/2026, texte à valider (statut `brouillon`), méthode de mesure de la visibilité IA en cinq temps (panel de questions figé, répétitions datées, relevé des sources citées), sans compteur interne et sans chiffre non sourcé.
 
 ## Role
 Brouillons et articles edites du blog Digital-V, avant ou apres publication.
