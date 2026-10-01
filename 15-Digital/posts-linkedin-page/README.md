@@ -22,6 +22,7 @@ Un fichier par post de la page Digital-V Partners, au format `AAAA-MM-JJ-sujet.m
 - [[15-Digital/posts-linkedin-page/2026-09-30-cyber-cout-reel-fuite-pme]]
 - [[15-Digital/posts-linkedin-page/2026-10-01-cas-client-employ-num-rique-la-preuve-par-l-exempl]]
 - [[15-Digital/posts-linkedin-page/2026-10-01-cyber-170-millions-donnees-sante]] : post du pilier cyber, texte rédigé, statut à valider, visuel 1080×1350 produit. Reprend le recensement FrenchBreaches du 30/09/2026 (plus de 170 millions de lignes, profils et enregistrements liés à la santé exposés ou revendiqués en France en 2026 : Cegedim 65 M, Almerys 44 M dont plus de 15 M de NIR, 8 ARS et plus de 130 hôpitaux 35 M, Alaxione 17 M, Pulsy 5,6 M, Cerballiance 2,5 M, VitalAire 50 000 dossiers). ⚠ Créneau à trancher : le 01/10 10h Paris est déjà occupé par « Cas client employé numérique » (NocoDB 62, planifié dans Buffer).
+- [[15-Digital/posts-linkedin-page/2026-10-02-lisibilite-ia-notre-propre-site]] : post du pilier visibilité IA, statut validé, publication prévue le 02/10/2026 à 10h00 (Paris). Rapport de lisibilité IA de notre propre site publié tel quel : 69 sur 100, trois manques retenus (chiffres non sourcés, contenus non signés, absence de fiche entreprise structurée).
 - [[15-Digital/posts-linkedin-page/2026-10-06-audit-gratuit-comment-a-se-passe-tape-par-tape]]
 - [[15-Digital/posts-linkedin-page/2026-10-07-cyber-audit-perimetre-transparent]]
 - [[15-Digital/posts-linkedin-page/2026-10-08-le-dirigeant-garde-les-d-cisions]]
