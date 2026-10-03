@@ -2,10 +2,12 @@
 date_publication: 2026-10-01
 heure_publication: 16:00 (Paris)
 format: texte
-statut: valide
+statut: publie
 sujet: Loi 25 : le registre des traitements, la pièce que personne n'a écrit
 pilier: conformite
 canal: linkedin
+source: https://www.cai.gouv.qc.ca/protection-renseignements-personnels/information-entreprises-privees/sanctions-entreprises-poursuites
+linkedin_id: urn:li:share:7512077027743686656
 ---
 
 « On verra ça plus tard. » C'est la réponse qu'on entend le plus souvent quand on parle de Loi 25 ou de RGPD à un dirigeant de PME. Et je le comprends : c'est un sujet qui ne rapporte rien tant que rien n'arrive.
@@ -24,7 +26,7 @@ Trois documents font l'essentiel du travail.
 
 Ce que la plupart des PME ont aujourd'hui : une page de confidentialité reprise d'un modèle générique, aucun registre, et beaucoup d'incertitude.
 
-Les montants, pour situer. Au Québec, la Commission d'accès à l'information peut imposer des sanctions administratives allant jusqu'à 10 millions de dollars ou 2 % du chiffre d'affaires mondial. En cas de poursuite pénale devant un tribunal, le plafond atteint 25 millions ou 4 %. En Europe, le RGPD prévoit 20 millions d'euros ou 4 %. Personne n'a besoin d'en arriver là : il suffit d'avoir les documents, et qu'ils soient à jour.
+Les montants, pour situer. Selon la Commission d'accès à l'information du Québec, les sanctions administratives peuvent atteindre 10 millions de dollars ou 2 % du chiffre d'affaires mondial, et l'amende pénale 25 millions ou 4 % lorsque le dossier passe devant un tribunal. Selon l'article 83 du RGPD, l'Europe prévoit de son côté 20 millions d'euros ou 4 %. Personne n'a besoin d'en arriver là : il suffit d'avoir les documents, et qu'ils soient à jour.
 
 C'est exactement ce qu'on fait, dans un cadre volontairement étroit : un audit 100 % organisationnel et documentaire. Nous ne touchons jamais à vos serveurs, à vos codes, ni à vos accès. Nous partons de vos documents et de vos pratiques déclarées, et nous livrons un registre prêt à remplir, une politique adaptée à votre juridiction, une grille d'écarts priorisée et un plan d'action clair.
 
