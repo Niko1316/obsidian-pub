@@ -2,7 +2,7 @@
 date_publication: 2026-09-06
 reseau: facebook
 langue: fr
-statut: valide
+statut: refuse
 sujet: Australie, les grandes enseignes retirent l'huile de krill
 persona: Nora Sundell
 valide_le: 2026-09-11

@@ -2,7 +2,7 @@
 date_publication: 2026-09-03
 reseau: pinterest
 langue: fr
-statut: valide
+statut: refuse
 sujet: Oméga-3 sanguins et fibrillation auriculaire, méta-analyse 2026
 persona: Nora Sundell
 ---

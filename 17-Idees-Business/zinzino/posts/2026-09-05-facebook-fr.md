@@ -2,7 +2,7 @@
 date_publication: 2026-09-05
 reseau: facebook
 langue: fr
-statut: valide
+statut: refuse
 sujet: Congrès ESC 2026 : les triglycérides, le facteur de risque oublié
 persona: Nora Sundell
 valide_le: 2026-09-11

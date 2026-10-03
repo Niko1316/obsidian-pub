@@ -2,7 +2,7 @@
 date_publication: 2026-09-10
 reseau: facebook
 langue: fr
-statut: valide
+statut: refuse
 valide_le: 2026-09-11
 ---
 Une étude récente publiée dans *Clinical Nutrition* révèle que des niveaux élevés d’oméga-3 dans le sang sont associés à un risque réduit de démence précoce. Les participants avec les taux les plus élevés d’oméga-3 et de DHA présentaient une incidence significativement plus faible de démence avant 65 ans, indépendamment du statut génétique.
