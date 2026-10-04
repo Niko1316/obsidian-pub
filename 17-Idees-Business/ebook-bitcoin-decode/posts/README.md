@@ -39,6 +39,10 @@ Un fichier par post publié, au format `AAAA-MM-JJ-canal-langue.md` (facebook, i
 - [[17-Idees-Business/ebook-bitcoin-decode/posts/2026-10-03-x-en]]
 - [[17-Idees-Business/ebook-bitcoin-decode/posts/2026-10-03-x-es]]
 - [[17-Idees-Business/ebook-bitcoin-decode/posts/2026-10-03-x-pt]]
+- [[17-Idees-Business/ebook-bitcoin-decode/posts/2026-10-04-facebook-fr]]
+- [[17-Idees-Business/ebook-bitcoin-decode/posts/2026-10-04-facebook-en]]
+- [[17-Idees-Business/ebook-bitcoin-decode/posts/2026-10-04-facebook-es]]
+- [[17-Idees-Business/ebook-bitcoin-decode/posts/2026-10-04-facebook-pt]]
 
 ## Liens
 - Dossier parent : [[17-Idees-Business/ebook-bitcoin-decode/README]]
