@@ -28,3 +28,6 @@ Ce que nous avons fait de ce rapport, nous le livrons: les 21 contrôles, le sco
 L'exemple publié est notre propre audit, sans rien retoucher: digital-vpartners.com
 
 #VisibilitéIA #PME #Digital-VPartners
+
+## Visuel
+2026-10-02-lisibilite-ia-notre-propre-site-visuel.png

@@ -22,3 +22,6 @@ Pour un dirigeant, trois réflexes :
 La frontière entre SEO et GEO se mesure en un audit, gratuit : digital-vpartners.com 🎯
 
 #SEO #GEO #IA #Digital-VPartners
+
+## Visuel
+2026-09-29-bien-class-cit-geo-vs-seo-expliqu-simplement-visuel.png

@@ -23,3 +23,6 @@ Le rapport arrive sous 48 h, après une validation humaine du verdict. Une photo
 L'audit est gratuit. 🔍 Voyez par vous-même ce qu'il révèle: digital-vpartners.com 🛡️
 
 #Cybersécurité #PME #AuditCyber #Digital-VPartners
+
+## Visuel
+2026-10-07-cyber-audit-perimetre-transparent-visuel.png

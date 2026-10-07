@@ -26,3 +26,6 @@ Chez Digital-V Partners, un audit commence par la version et la date de chaque s
 Votre point de départ se mesure gratuitement : digital-vpartners.com 📈
 
 #VisibiliteIA #ApercusIA #PME #Digital-VPartners
+
+## Visuel
+2026-09-22-chiffre-apercus-ia-revise-visuel.png

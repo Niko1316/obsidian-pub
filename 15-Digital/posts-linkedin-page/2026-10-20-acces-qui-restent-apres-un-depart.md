@@ -29,3 +29,6 @@ Le plus difficile n'est pas technique. Personne n'a envie de réclamer ses accè
 Pour voir ce que votre domaine expose déjà, le contrôle d'exposition est offert, sans engagement : digital-vpartners.com 🛡️
 
 #Cybersécurité #PME #Sécurité #DigitalVPartners
+
+## Visuel
+2026-10-20-acces-qui-restent-apres-un-depart-visuel.png

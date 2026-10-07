@@ -29,3 +29,6 @@ Notre audit cyber est gratuit et non intrusif: aucune requête vers vos serveurs
 digital-vpartners.com
 
 #CyberSécurité #PME #Digital-VPartners
+
+## Visuel
+2026-10-01-cyber-170-millions-donnees-sante-visuel.png

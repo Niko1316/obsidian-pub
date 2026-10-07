@@ -23,3 +23,6 @@ Rien à vendre dans ce rapport, tout à mesurer : c'est comme ça que nous trava
 Votre audit gratuit vous attend : digital-vpartners.com ✅
 
 #AuditGratuit #VisibiliteIA #PME #Digital-VPartners
+
+## Visuel
+2026-10-06-audit-gratuit-comment-a-se-passe-tape-par-tape-visuel.png

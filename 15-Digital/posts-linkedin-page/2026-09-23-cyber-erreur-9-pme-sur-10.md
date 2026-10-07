@@ -27,3 +27,6 @@ Aucun antivirus ne signale ces trois angles morts. Pourtant, ce sont eux que les
 La première protection, c'est de voir sa propre exposition. L'audit Digital-V Partners est gratuit et strictement passif: il ne touche à rien chez vous. digital-vpartners.com 🛡️
 
 #Cybersécurité #PME #Dirigeant #Digital-VPartners
+
+## Visuel
+2026-09-23-cyber-erreur-9-pme-sur-10-visuel.png

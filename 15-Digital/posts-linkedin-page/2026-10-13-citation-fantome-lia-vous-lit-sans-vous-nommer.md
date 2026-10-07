@@ -29,3 +29,6 @@ Trois réflexes :
 Notre audit de visibilité IA mesure ces deux colonnes et dit laquelle manque. Gratuit, sans engagement : digital-vpartners.com 🎯
 
 #VisibilitéIA #GEO #SEO #PME #Digital-VPartners
+
+## Visuel
+2026-10-13-citation-fantome-lia-vous-lit-sans-vous-nommer-visuel.png

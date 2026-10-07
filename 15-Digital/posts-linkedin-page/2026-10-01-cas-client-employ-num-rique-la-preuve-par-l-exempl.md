@@ -28,3 +28,6 @@ Non, nous ne remplaçons personne. Nous augmentons nos équipes, comme nous pouv
 Voir ce que ça donnerait chez vous? Le diagnostic prend 60 secondes: digital-vpartners.com. 📊
 
 #EmployéNumérique #PME #Digital-VPartners
+
+## Visuel
+2026-10-01-cas-client-employ-num-rique-la-preuve-par-l-exempl-visuel.png
