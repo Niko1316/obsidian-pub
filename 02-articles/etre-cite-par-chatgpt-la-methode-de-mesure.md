@@ -1,7 +1,7 @@
 ---
 date: 2026-09-30
 url: (à venir après publication)
-statut: brouillon
+statut: valide
 ---
 
 # Être cité par ChatGPT : la méthode de mesure

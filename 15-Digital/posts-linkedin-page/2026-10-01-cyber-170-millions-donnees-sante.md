@@ -2,7 +2,7 @@
 date_publication: 2026-10-01
 heure_publication: 10:00 (Paris)
 format: texte
-statut: a-valider
+statut: valide
 sujet: 170 millions de données de santé exposées : ce que ça change pour votre PME
 pilier: cyber
 canal: linkedin_page

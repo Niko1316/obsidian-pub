@@ -2,7 +2,7 @@
 date_publication: 2026-10-22
 heure_publication: 16:00 (Paris)
 format: texte
-statut: a-valider
+statut: valide
 sujet: Une demande d'accès : ce que vous devez pouvoir montrer
 pilier: conformite
 canal: linkedin
