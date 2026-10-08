@@ -1,4 +1,5 @@
 ---
+linkedin_id: urn:li:share:7513870992235028480
 format: texte
 date_publication: 2026-10-08
 heure_publication: 16:00 (Paris)
