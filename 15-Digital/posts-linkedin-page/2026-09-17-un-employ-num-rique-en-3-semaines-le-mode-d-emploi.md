@@ -25,3 +25,6 @@ Contrairement à une embauche, pas de CV à trier ni de longue intégration: un 
 La mission qui vous coûte le plus cher existe chez vous aussi. La trouver prend 60 secondes: digital-vpartners.com ⏱
 
 #EmployéNumérique #PME #IA #Digital-VPartners
+
+## Visuel
+2026-09-17-un-employ-num-rique-en-3-semaines-le-mode-d-emploi-visuel.png

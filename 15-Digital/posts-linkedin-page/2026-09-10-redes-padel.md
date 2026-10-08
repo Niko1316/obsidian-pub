@@ -22,3 +22,6 @@ Quand le digital est bien fait, il ne raconte pas une histoire : il remplit le p
 Votre activité aimerait la même chose ? Écrivez-nous en privé.
 
 #Padel #RéseauxSociaux #Digital-VPartners
+
+## Visuel
+2026-09-10-redes-padel-visuel.png

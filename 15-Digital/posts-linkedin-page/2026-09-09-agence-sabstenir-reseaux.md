@@ -25,3 +25,6 @@ Notre conviction : on ne poste pas pour poster. Chaque publication doit servir u
 La vôtre le fait-elle ? Dites-le-nous en commentaire.
 
 #Communication #PME #Digital-VPartners
+
+## Visuel
+2026-09-09-agence-sabstenir-reseaux-visuel.png

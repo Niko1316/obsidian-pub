@@ -100,3 +100,6 @@ Texte à l'écran : uniquement le titre, le sous-titre et l'URL. Pas de prix sur
 - ✅ Prix réels : 79/199/399, boosts non cités hors contexte, CTA www.rovumi.com (pas /pro).
 - ✅ Signature « Explore the Uncharted », ton direct orienté bénéfice, zéro jargon SaaS.
 - ✅ Langues : FR (publication) + EN (déclinaison). ES/PT disponibles sur la même trame via la traduction Rovumi.
+
+## Visuel
+2026-09-15-rovumi-campagnes-acquisition-visuel.png

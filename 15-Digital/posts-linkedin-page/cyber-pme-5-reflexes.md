@@ -23,3 +23,6 @@ Chez Digital-V, on aide les PME à appliquer ces réflexes au quotidien, sans ja
 Votre équipe a déjà adopté les 5 ? 🛡️
 
 #Cybersécurité #PME #Digital-VPartners
+
+## Visuel
+cyber-pme-5-reflexes-visuel.png

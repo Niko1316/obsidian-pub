@@ -28,3 +28,6 @@ Résultat concret: le matin, le travail préparatoire est déjà fait. Vous vali
 L'Escouade IA, c'est cette équipe d'employés numériques au service des PME. Pour vérifier comment elle s'intégrerait chez vous: 60 secondes sur digital-vpartners.com. ☕
 
 #EmployéNumérique #PME #IA #Digital-VPartners
+
+## Visuel
+2026-09-24-ce-que-l-escouade-fait-et-ne-fait-pas-visuel.png

@@ -41,3 +41,6 @@ Dites-nous en commentaire ce que vous délégueriez en premier. 🚀
 - 4 hashtags dont #Digital-VPartners, 1 emoji.
 - Zéro invention : les faits cités (dizaine d'employés numériques, agences sur mesure) viennent des posts publiés et du brief maître.
 - Aucun tiret cadratin.
+
+## Visuel
+2026-09-30-agences-transformation-visuel.png

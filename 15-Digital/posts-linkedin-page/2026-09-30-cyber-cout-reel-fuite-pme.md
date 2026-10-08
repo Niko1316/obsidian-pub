@@ -27,3 +27,6 @@ Ces coûts ne sont pas une fatalité. Une grande partie se prévient en réduisa
 La solution n'est pas de deviner, c'est de voir. 🔍 L'audit d'exposition de Digital-V Partners est gratuit: digital-vpartners.com 🛡️
 
 #Cybersécurité #PME #RGPD #Digital-VPartners
+
+## Visuel
+2026-09-30-cyber-cout-reel-fuite-pme-visuel.png

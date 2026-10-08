@@ -19,3 +19,6 @@ C'est ça, un Employé numérique : il travaille pendant que vous travaillez.
 Vous voulez voir ce que ça donne pour votre commerce ? Écrivez-nous en commentaire ou en message privé.
 
 #EmployéNumérique #PME #DigitalV
+
+## Visuel
+2026-09-08-maesco-infolettre-video-visuel.png

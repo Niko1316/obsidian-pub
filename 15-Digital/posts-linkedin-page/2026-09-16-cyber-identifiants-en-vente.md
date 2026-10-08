@@ -27,3 +27,6 @@ Comment savoir si votre domaine est concerné? La réponse existe: vérifier les
 C'est l'audit d'exposition de Digital-V Partners: gratuit, rapport sous 48 h, chaque constat sourcé et daté. digital-vpartners.com 🛡️
 
 #Cybersécurité #PME #Digital-VPartners
+
+## Visuel
+2026-09-16-cyber-identifiants-en-vente-visuel.png

@@ -22,3 +22,6 @@ Ce que constatent nos audits :
 Pour ouvrir le sujet, nous offrons cet audit de visibilité IA : nous testons vos requêtes sur ChatGPT, Gemini, Perplexity et Google AI, et nous vous livrons un rapport clair, gratuitement. Demandez le vôtre : digital-vpartners.com 📊
 
 #IA #PME #VisibiliteIA #Digital-VPartners
+
+## Visuel
+2026-09-15-tes-vous-cit-par-l-ia-visuel.png
