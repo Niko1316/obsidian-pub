@@ -35,3 +35,6 @@ Sensibiliser, ce n'est pas fliquer.
 Pour en parler : digital-vpartners.com 🛡️
 
 #Cybersécurité #Phishing #PME #Digital-VPartners
+
+## Visuel
+2026-10-15-simulation-phishing-sans-humiliation-visuel.png

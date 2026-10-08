@@ -31,3 +31,6 @@ Notre audit de conformité est volontairement documentaire : nous ne touchons ja
 Pour savoir où vous en êtes : un questionnaire court, digital-vpartners.com
 
 #Loi25 #RGPD #Conformité #PME #DigitalVPartners
+
+## Visuel
+2026-10-22-demande-d-acces-ce-que-vous-devez-pouvoir-montrer-visuel.png
