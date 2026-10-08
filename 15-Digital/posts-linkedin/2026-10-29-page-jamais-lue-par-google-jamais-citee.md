@@ -29,3 +29,6 @@ La visibilité dans les IA commence par un index qui vous connaît. Ce qui n'est
 Notre audit de visibilité IA regarde les deux : ce que Google a lu, et ce que les IA répondent. Gratuit, sans engagement : digital-vpartners.com
 
 #VisibilitéIA #GEO #SEO #PME #DigitalVPartners
+
+## Visuel
+2026-10-29-page-jamais-lue-par-google-jamais-citee-visuel.png

@@ -31,3 +31,6 @@ Notre audit de conformité est volontairement documentaire : nous ne touchons ja
 Pour savoir où vous en êtes : digital-vpartners.com
 
 #Loi25 #RGPD #Conformité #PME #DigitalVPartners
+
+## Visuel
+2026-10-27-loi-25-le-responsable-un-nom-a-publier-visuel.png

@@ -27,3 +27,6 @@ Bloquer les IA peut être un choix. Le faire sans le savoir, c'est du travail de
 Notre audit de visibilité IA lit votre robots.txt, votre socle technique et vos réponses dans les moteurs. Gratuit, sans engagement : digital-vpartners.com
 
 #VisibilitéIA #GEO #SEO #PME #DigitalVPartners
+
+## Visuel
+2026-11-03-robots-txt-les-ia-ont-elles-le-droit-de-vous-lire-visuel.png

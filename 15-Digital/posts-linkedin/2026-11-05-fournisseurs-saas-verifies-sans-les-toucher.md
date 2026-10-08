@@ -31,3 +31,6 @@ Aucun scan, aucune tentative d'accès. Seulement ce que le fournisseur rend publ
 Pour mettre vos fournisseurs sur une grille de risque : digital-vpartners.com
 
 #Cybersécurité #PME #Fournisseurs #DigitalVPartners
+
+## Visuel
+2026-11-05-fournisseurs-saas-verifies-sans-les-toucher-visuel.png
