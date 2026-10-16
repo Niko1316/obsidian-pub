@@ -3,7 +3,7 @@ linkedin_id:
 date_publication: 2026-10-17
 heure_publication: 16:00 (Paris)
 format: texte
-statut: a-valider
+statut: valide
 sujet: Ce qui n'est pas collecté ne peut pas fuir
 pilier: cyber
 canal: linkedin
