@@ -2,7 +2,7 @@
 date_publication: 2026-11-05
 heure_publication: 16:00 (Paris)
 format: texte
-statut: a-valider
+statut: valide
 sujet: Vos fournisseurs en ligne, vérifiés sans les toucher
 pilier: cyber
 canal: linkedin

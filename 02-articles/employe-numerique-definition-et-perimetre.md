@@ -1,7 +1,8 @@
 ---
 date: 2026-10-07
-url: (à venir après publication)
-statut: brouillon
+url: https://digital-vpartners.com/fr/blog/employe-numerique-definition-et-perimetre
+statut: publie
+publie_le: 2026-10-18
 ---
 
 # Employé numérique : définition et périmètre

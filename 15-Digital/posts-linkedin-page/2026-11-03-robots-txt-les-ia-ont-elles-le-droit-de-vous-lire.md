@@ -2,7 +2,7 @@
 date_publication: 2026-11-03
 heure_publication: 10:00 (Paris)
 format: texte
-statut: a-valider
+statut: valide
 sujet: robots.txt : avez-vous laissé entrer les IA ?
 pilier: visibilite-ia
 canal: linkedin_page

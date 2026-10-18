@@ -2,7 +2,7 @@
 date_publication: 2026-10-20
 heure_publication: 10:00 (Paris)
 format: texte
-statut: a-valider
+statut: valide
 sujet: Les accès qui restent après un départ
 pilier: cyber
 canal: linkedin_page
