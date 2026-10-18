@@ -6,8 +6,8 @@ statut: valide
 
 # Être cité par ChatGPT : la méthode de mesure
 
-> Blog Digital-V · Article hebdo · Brouillon d'avance déposé le 30/09/2026, texte À VALIDER
-> Statut : en attente de décision dans NocoDB Publications (colonne Statut : « À publier » = publier, « Refusé » = sujet écarté). Aucune publication avant.
+> Bloc interne, ne pas publier · Blog Digital-V · Article hebdo · Brouillon d'avance déposé le 30/09/2026, texte validé par El Jeffe le 18/10/2026 (NocoDB Publications, ligne 135, Validation OUI).
+> Créneau : mercredi 28/10/2026, 10h30 UTC. Bascule automatique en « À publier » à 09h45 (cron Blog DV bascule créneau 28/10), puis publication par le cron du mercredi. Aucune publication avant.
 > Sources : méthode de mesure de visibilité IA décrite par Digital-V (panel de questions figé, répétitions datées, relevé des sources citées), cadrage interne Digital-V (positionnement « Employé numérique », L'Escouade IA). Aucun compteur interne du relevé de visibilité n'est publié dans ce texte : cette décision appartient à El Jeffe.
 
 ---
