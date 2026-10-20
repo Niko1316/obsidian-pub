@@ -27,3 +27,7 @@ Notre audit de conformité est volontairement documentaire : nous ne touchons ni
 Pour situer votre entreprise en quelques minutes : digital-vpartners.com
 
 #Loi25 #RGPD #Conformité #PME #DigitalVPartners
+
+## Visuel
+2026-10-27-politique-de-confidentialite-la-page-que-personne-ne-relit-visuel.png
+
