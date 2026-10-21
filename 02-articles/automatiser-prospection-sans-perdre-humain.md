@@ -1,7 +1,8 @@
 ---
 date: 2026-09-16
-url: (à venir après publication)
-statut: valide
+url: https://digital-vpartners.com/fr/blog/automatiser-prospection-sans-perdre-humain
+statut: publie
+publie_le: 2026-10-21
 ---
 
 # Automatiser sa prospection sans perdre l'humain
