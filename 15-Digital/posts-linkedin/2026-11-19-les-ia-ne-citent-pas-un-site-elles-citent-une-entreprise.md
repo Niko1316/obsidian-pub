@@ -24,7 +24,7 @@ Trois marqueurs font qu'une entreprise devient citable.
 
 Ce travail ne s'appelle pas du référencement. Il ne promet pas une position, il rend une entreprise identifiable. C'est le préalable : une entreprise que le moteur n'identifie pas ne peut pas être recommandée, quel que soit le contenu qu'elle publie.
 
-Le pré-diagnostic en ligne indique par quoi commencer, en trois minutes : digital-vpartners.com
+Le pré-diagnostic en ligne indique par quoi commencer, question par question : digital-vpartners.com
 
 #VisibiliteIA #GEO #SEO #PME #Digital-VPartners
 
