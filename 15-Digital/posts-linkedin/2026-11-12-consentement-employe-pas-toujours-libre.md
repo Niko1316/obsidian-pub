@@ -29,3 +29,6 @@ Notre audit de conformité est volontairement documentaire : nous ne touchons ni
 Pour situer votre entreprise : digital-vpartners.com
 
 #Loi25 #RGPD #Consentement #PME #Digital-VPartners
+
+## Visuel
+2026-11-12-consentement-employe-pas-toujours-libre-visuel.png

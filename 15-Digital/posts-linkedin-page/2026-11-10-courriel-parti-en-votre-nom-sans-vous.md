@@ -29,3 +29,6 @@ Trois vérifications, une demi-heure, sans rien installer.
 Ces réglages se lisent depuis l'extérieur, sans toucher à vos systèmes. C'est le point de départ de notre contrôle d'exposition : ce qu'un inconnu voit de votre domaine. Gratuit, sans engagement : digital-vpartners.com
 
 #Cybersécurité #PME #UsurpationDeDomaine #Phishing #Digital-VPartners
+
+## Visuel
+2026-11-10-courriel-parti-en-votre-nom-sans-vous-visuel.png
