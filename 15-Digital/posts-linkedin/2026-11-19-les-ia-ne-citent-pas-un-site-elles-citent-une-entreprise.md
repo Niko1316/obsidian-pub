@@ -4,7 +4,7 @@ heure_publication: 16:00 (Paris)
 format: texte
 statut: a-valider
 sujet: Les IA ne citent pas un site, elles citent une entreprise
-pilier: visibilite
+pilier: visibilite-ia
 canal: linkedin
 ---
 
