@@ -3,7 +3,7 @@ linkedin_id: urn:li:share:7521496244775469059
 date_publication: 2026-10-29
 heure_publication: 16:00 (Paris)
 format: texte
-statut: valide
+statut: publie
 sujet: Une page que Google n'a jamais lue ne peut pas être citée
 pilier: visibilite-ia
 canal: linkedin

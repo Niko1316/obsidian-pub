@@ -3,7 +3,7 @@ linkedin_id: urn:li:share:7521936713385058305
 date_publication: 2026-10-30
 heure_publication: 16:00 (Paris)
 format: texte
-statut: a-valider
+statut: publie
 sujet: Vos clients n'ont pas de compte chez votre prestataire, ils sont quand même dans son fichier
 pilier: cyber
 canal: linkedin
