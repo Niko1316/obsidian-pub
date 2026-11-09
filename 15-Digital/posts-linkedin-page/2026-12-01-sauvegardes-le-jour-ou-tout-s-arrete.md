@@ -20,7 +20,7 @@ Trois leçons reviennent à chaque fois.
 
 3. Le temps de reprise se mesure, il ne s'espère pas. Restaurer un serveur de fichiers n'est pas reconstruire une messagerie, un logiciel de facturation et les accès des salariés. Un plan utile indique l'ordre des systèmes, qui décide, qui exécute, et combien d'heures l'entreprise tient sans chaque outil.
 
-Un dernier point compte plus que les trois autres : si personne ne sait où sont les copies, elles n'existent pas. Le dirigeant doit pouvoir répondre en une phrase à la question « qui peut restaurer, sans moi, et en combien de temps ? ». Si la réponse est le nom d'un prestataire unique, sans document ni accès de secours, la dépendance est totale.
+Un dernier point compte plus que les trois autres : si personne ne sait où sont les copies, elles n'existent pas. Le dirigeant doit pouvoir répondre en une phrase à la question « qui peut restaurer, sans moi, et en combien de temps ? ».
 
 Le test que nous proposons tient en une réunion : choisir un dossier, demander sa restauration à une date précise, chronométrer, vérifier que le contenu est complet. Ce qui échoue ce jour-là échouerait un dimanche soir, en pire.
 
