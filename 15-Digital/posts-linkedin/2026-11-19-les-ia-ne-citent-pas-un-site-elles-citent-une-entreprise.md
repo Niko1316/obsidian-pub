@@ -1,8 +1,9 @@
 ---
+linkedin_id: urn:li:share:7529135442869407744
 date_publication: 2026-11-19
 heure_publication: 16:00 (Paris)
 format: texte
-statut: a-valider
+statut: valide
 sujet: Les IA ne citent pas un site, elles citent une entreprise
 pilier: visibilite-ia
 canal: linkedin

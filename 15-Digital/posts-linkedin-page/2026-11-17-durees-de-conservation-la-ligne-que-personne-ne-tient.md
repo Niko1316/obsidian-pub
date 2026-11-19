@@ -2,7 +2,7 @@
 date_publication: 2026-11-17
 heure_publication: 10:00 (Paris)
 format: texte
-statut: a-valider
+statut: valide
 sujet: Durées de conservation : la ligne que personne ne tient
 pilier: conformite
 canal: linkedin_page
