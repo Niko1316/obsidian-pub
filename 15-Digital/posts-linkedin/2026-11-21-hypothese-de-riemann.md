@@ -1,13 +1,11 @@
 ---
 date: 2026-11-21
 ---
-date: 2026-11-21
----
 linkedin_id: urn:li:share:7529831185816928256
 date_publication: 2026-11-21
 heure_publication: 10:00 (Paris)
 format: image
-statut: valide
+statut: publie
 sujet: L'hypothèse de Riemann et la revendication d'Anthropic
 pilier: veille-ia
 canal: linkedin
