@@ -8,7 +8,7 @@ sujet: Personne responsable des renseignements personnels : ce qu'une PME québ�
 # Personne responsable des renseignements personnels : ce qu'une PME québécoise doit pouvoir montrer
 
 > Blog Digital-V · Article hebdo · Brouillon déposé le 09/11/2026 pour le créneau du mercredi 25/11/2026.
-> Statut : en attente de décision dans NocoDB Publications. Passer à « Validé » pour armer le créneau, « Refusé » pour écarter le sujet. Aucune publication avant.
+> Statut : en attente de décision dans NocoDB Publications. « Refusé » écarte le sujet. Pour publier le mercredi 25/11 : mettre la ligne à « À publier » le mardi 24/11 après 06h00 UTC (le passage quotidien de 06h00 publie toute ligne « À publier », sans filtre de date). Aucune publication avant.
 > Sources : Loi 25 (Loi modernisant des dispositions législatives en matière de protection des renseignements personnels, Québec), textes publics de la Commission d'accès à l'information. Aucun chiffre client, aucune coordonnée, aucune donnée personnelle dans ce texte.
 
 ---
@@ -35,7 +35,7 @@ La Loi 25 confie la protection des renseignements personnels à la personne qui 
 
 La loi ne demande pas un diplôme, ni un service entier, ni un logiciel particulier. Elle ne demande pas non plus que le responsable traite lui-même chaque demande. Elle demande que quelqu'un réponde, et que l'entreprise puisse démontrer que ce quelqu'un existe, qu'il a un mandat et qu'il a les moyens de l'exercer.
 
-C'est là que l'écart se creuse. Une entreprise sur deux, dans les PME que nous rencontrons, a un nom quelque part dans une politique d'intranet. Beaucoup moins peuvent produire le document qui dit ce que cette personne décide, sur quels sujets, et avec quelle autorité pour refuser.
+C'est là que l'écart se creuse. Dans les PME que nous rencontrons, le nom existe presque toujours quelque part, dans une politique d'intranet ou une page de site. Beaucoup moins peuvent produire le document qui dit ce que cette personne décide, sur quels sujets, et avec quelle autorité pour refuser.
 
 ### Section 2 : Le rôle n'est pas un titre sur un organigramme
 
