@@ -1,9 +1,10 @@
 ---
-date: 2026-11-25
+
+date: 2026-11-23
 url: (à venir après publication)
 statut: brouillon
 sujet: Personne responsable des renseignements personnels : ce qu'une PME québécoise doit pouvoir montrer
----
+
 
 # Personne responsable des renseignements personnels : ce qu'une PME québécoise doit pouvoir montrer
 

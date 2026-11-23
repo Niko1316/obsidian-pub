@@ -1,4 +1,6 @@
 ---
+
+date: 2026-11-23
 date_publication: 2026-12-10
 heure_publication: 16:00 (Paris)
 format: texte
@@ -6,7 +8,7 @@ statut: a-valider
 sujet: L'IA vous décrit encore tel que vous n'êtes plus
 pilier: visibilite-ia
 canal: linkedin
----
+
 
 Vous avez retiré une offre, changé de positionnement, déménagé. Votre site est à jour. Et pourtant, quand on interroge un moteur de réponse, il vous décrit encore tel que vous étiez il y a un an.
 
