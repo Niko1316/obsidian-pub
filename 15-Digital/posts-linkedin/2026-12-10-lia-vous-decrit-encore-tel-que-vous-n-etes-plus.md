@@ -8,7 +8,7 @@ statut: a-valider
 sujet: L'IA vous décrit encore tel que vous n'êtes plus
 pilier: visibilite-ia
 canal: linkedin
-
+---
 
 Vous avez retiré une offre, changé de positionnement, déménagé. Votre site est à jour. Et pourtant, quand on interroge un moteur de réponse, il vous décrit encore tel que vous étiez il y a un an.
 
@@ -29,3 +29,6 @@ La visibilité dans les IA n'est pas un état qu'on obtient une fois, c'est une 
 Le pré-diagnostic indique les questions où vous êtes cité, et celles où votre description date d'avant : digital-vpartners.com
 
 #VisibilitéIA #GEO #SEO #PME #Digital-VPartners
+
+## Visuel
+2026-12-10-lia-vous-decrit-encore-tel-que-vous-n-etes-plus-visuel.png

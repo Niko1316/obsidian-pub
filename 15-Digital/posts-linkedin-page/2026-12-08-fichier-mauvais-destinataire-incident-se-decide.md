@@ -27,3 +27,6 @@ Le réflexe à éviter reste le même : traiter l'incident comme un problème in
 Notre audit de conformité est documentaire : procédure, registre et chaîne de décision, sans toucher à vos systèmes. Pour situer votre entreprise : digital-vpartners.com
 
 #Loi25 #RGPD #IncidentDeConfidentialité #Conformité #PME
+
+## Visuel
+2026-12-08-fichier-mauvais-destinataire-incident-se-decide-visuel.png
