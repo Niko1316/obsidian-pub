@@ -3,10 +3,10 @@
 date: 2026-11-23
 url: (à venir après publication)
 statut: brouillon
-sujet: Personne responsable des renseignements personnels : ce qu'une PME québécoise doit pouvoir montrer
+sujet: Personne responsable des renseignements personnels : quelles preuves
 
 
-# Personne responsable des renseignements personnels : ce qu'une PME québécoise doit pouvoir montrer
+# Personne responsable des renseignements personnels : quelles preuves
 
 > Blog Digital-V · Article hebdo · Brouillon déposé le 09/11/2026 pour le créneau du mercredi 25/11/2026.
 > Statut : en attente de décision dans NocoDB Publications. « Refusé » écarte le sujet. Pour publier le mercredi 25/11 : mettre la ligne à « À publier » le mardi 24/11 après 06h00 UTC (le passage quotidien de 06h00 publie toute ligne « À publier », sans filtre de date). Aucune publication avant.
@@ -17,7 +17,7 @@ sujet: Personne responsable des renseignements personnels : ce qu'une PME québ�
 ## Version FR (texte complet)
 
 ### Titre
-Personne responsable des renseignements personnels : ce qu'une PME québécoise doit pouvoir montrer
+Personne responsable des renseignements personnels : quelles preuves
 
 ### Méta description
 Désigner un responsable ne suffit pas. Ce qu'une PME québécoise doit pouvoir montrer : un mandat écrit, des traces datées, une délégation claire.
